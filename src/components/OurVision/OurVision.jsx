@@ -1,4 +1,5 @@
 // import img from "./image5.jpg";
+import React from 'react'
 import styles from "./styles.module.css";
 const OurVison = () => {
   return (

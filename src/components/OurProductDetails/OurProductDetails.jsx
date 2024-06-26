@@ -1,4 +1,5 @@
 // import ProductRangeSlider from './ProductRangeSlider';
+import React from 'react'
 import { Link } from 'react-router-dom';
 import { Button } from '@mui/material';
 import styles from "./styles.module.css";
